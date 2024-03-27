@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/lucky-whistle-dev">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;8%2B%20years%20of%20Software%20experience;Web3%20Expert&font=Anton&center=true&width=650&height=120&color=FF7B9C&vCenter=true&size=45%22">
-  </a>
-</p>
 
 Hello, I'm a passionate self-taught Blockchain developer and software engineer from worldwide.
 I take great care in the experience, architecture, and code quality of the things I build.
@@ -16,76 +11,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 ## Experienced Blockchain Networks
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/ethereum.png" width="30" height="30" alt="Ethereum" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/polygon.png" width="30" height="30" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/binance.png" width="30" height="30" alt="Binance" />
-      </a>
-      <br>Binance
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/avalanche.png" width="30" height="30" alt="Avalanche" />
-      </a>
-      <br>Avalanche
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/cardano.png" width="30" height="30" alt="Cardano" />
-      </a>
-      <br>Cardano
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/cronos.png" width="30" height="30" alt="Cronos" />
-      </a>
-      <br>Cronos
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/near.png" width="30" height="30" alt="Near" />
-      </a>
-      <br>Near
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/solana.png" width="30" height="30" alt="Solana" />
-      </a>
-      <br>Solana
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/cosmos.png" width="30" height="30" alt="Cosmos" />
-      </a>
-      <br>cosmos
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech">
-        <img src="./assets/logo/sui.png" width="30" height="30" alt="Sui" />
-      </a>
-      <br>Sui
-    </td>
-    <td align="center" width="70">
-      <a href="#macropower-tech" >
-        <img src="./assets/logo/aptos.png" width="30" height="30" alt="Aptos" />
-      </a>
-      <br>Aptos
-    </td>
-  </tr>
-</table>
+
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
