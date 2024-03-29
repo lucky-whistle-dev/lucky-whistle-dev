@@ -1,7 +1,3 @@
-
-Hello, I'm a passionate self-taught Blockchain developer and software engineer from worldwide.
-I take great care in the experience, architecture, and code quality of the things I build.
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 **> Programming languages**
